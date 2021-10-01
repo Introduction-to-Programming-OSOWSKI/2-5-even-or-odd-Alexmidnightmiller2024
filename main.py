@@ -1,9 +1,9 @@
 def isEven(n):
-    if n == 10:
+    if n == 4:
         return "True"
     else:
         return "False"
-print (isEven(234))
+print (isEven(4))
 
        
        
